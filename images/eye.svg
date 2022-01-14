@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="11px" viewBox="0 0 19 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.113725 0 0 0 0 0.223529 0 0 0 0 0.184314 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Simbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-4.000000, -10.000000)" filter="url(#filter-1)">
+            <g transform="translate(4.628105, 7.322070)">
+                <g transform="translate(0.000000, 2.810000)" fill="#EC2227" fill-rule="nonzero" id="Shape">
+                    <path d="M8.62,9.47 C5.1,9.47 1.91,7.75 0.09,4.87 L0,4.74 L0.08,4.61 C1.91,1.72 5.1,0 8.62,0 C12.14,0 15.33,1.72 17.15,4.6 L17.23,4.73 L17.15,4.86 C15.32,7.75 12.13,9.47 8.62,9.47 Z M0.59,4.74 C2.34,7.4 5.32,8.98 8.61,8.98 C11.9,8.98 14.89,7.4 16.63,4.74 C14.89,2.08 11.91,0.5 8.62,0.5 C5.33,0.5 2.34,2.08 0.59,4.74 Z"></path>
+                    <path d="M8.62,7.64 C6.95,7.64 5.59,6.34 5.59,4.74 C5.59,3.14 6.95,1.84 8.62,1.84 C10.29,1.84 11.65,3.14 11.65,4.74 C11.65,6.34 10.29,7.64 8.62,7.64 Z M8.62,2.34 C7.22,2.34 6.09,3.42 6.09,4.74 C6.09,6.06 7.22,7.14 8.62,7.14 C10.02,7.14 11.15,6.06 11.15,4.74 C11.15,3.42 10.01,2.34 8.62,2.34 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="45px" viewBox="0 0 36 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>SOPPING BAG</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.113725 0 0 0 0 0.223529 0 0 0 0 0.184314 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Simbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SOPPING-BAG" transform="translate(-1288.000000, -88.000000)" filter="url(#filter-1)">
+            <g transform="translate(1288.500000, 88.000000)">
+                <path d="M34.5,45 L0.5,45 L2.39502165,11 L32.6049784,11 L32.6233766,11.4422764 L34.5,45 Z M1.47510823,44.0785908 L33.5248918,44.0785908 L31.7218615,11.9214092 L3.25974026,11.9214092 L1.47510823,44.0785908 Z" id="Shape" fill="#DA3A34" fill-rule="nonzero"></path>
+                <path d="M9.45137421,12 L8.5,12 L8.5,8.67889908 C8.5,3.88990826 12.5338266,0 17.5,0 C22.4661734,0 26.5,3.88990826 26.5,8.67889908 L26.5,11.7798165 L25.5486258,11.7798165 L25.5486258,8.67889908 C25.5486258,4.40366972 21.9334038,0.917431193 17.5,0.917431193 C13.0665962,0.917431193 9.45137421,4.40366972 9.45137421,8.67889908 L9.45137421,12 Z" id="Path" fill="#DA3A34" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

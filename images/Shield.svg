@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="64px" viewBox="0 0 48 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shield icon</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.113725 0 0 0 0 0.223529 0 0 0 0 0.184314 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="HOME" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Revive-365-CBD-Desktop" transform="translate(-209.000000, -6424.000000)">
+            <g id="Secure" transform="translate(165.000000, 6228.000000)" filter="url(#filter-1)">
+                <g transform="translate(44.000000, 49.052734)">
+                    <g id="Shield-icon" transform="translate(0.000000, 146.947266)" fill="#DA3A34" fill-rule="nonzero">
+                        <path d="M24.1990624,0 L0.311575911,7.1130294 L0,7.21661721 L0,35.5824117 C0,43.5241435 4.03317706,50.9997302 10.6282005,55.4367413 L10.593581,55.4367413 L23.9740353,64 L36.1774252,56.1963852 C43.4648395,51.8974912 48,44.0075533 48,35.5996763 L48,7.21661721 L24.1990624,0 Z M47.1345114,35.5824117 C47.1345114,43.7313191 42.7378291,51.3622876 35.658132,55.4885352 L34.2906599,56.299973 L34.4118283,56.299973 L23.9913451,62.9641219 L13.5708619,56.299973 L13.7266498,56.299973 L12.341868,55.4885352 C5.26217093,51.3622876 0.86548864,43.7313191 0.86548864,35.5824117 L0.86548864,7.85540869 L24.1990624,0.897760993 L47.1345114,7.85540869 L47.1345114,35.5824117 Z" id="Shape"></path>
+                        <polygon id="Path" points="10.7418361 27.3439211 10 27.7820372 15.3481208 37 38 21.7185104 37.5341959 21 15.6414048 35.7557503"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
