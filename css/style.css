@@ -584,14 +584,14 @@ mark {
 }
 .seller_bottm .se_icon {
   display: flex;
-  gap: 0.5rem;
+  gap: 0.25rem;
   justify-content: center;
   align-items: center;
 }
 .se_icon {
   border: 1px solid var(--border);
   background-color: var(--secondary);
-  padding: 6px;
+  padding: 2px;
   display: inline-block;
 }
 .se_icon > * + * {
